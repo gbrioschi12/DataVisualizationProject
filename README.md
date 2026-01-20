@@ -9,7 +9,7 @@ This repository contains the analysis and visualizations of street-level crime i
 The project demonstrates **data cleaning, preprocessing, aggregation, and visualization** using R, with outputs designed for Datawrapper and Flourish visualizations.
 
 ## Repository Contents
-`crime_analysis.R`: Complete R script performing data exploration, cleaning, preprocessing, aggregation, and visualization
+`DV_process.R`: Complete R script performing data exploration, cleaning, preprocessing, aggregation, and visualization
 `monthly_crime.csv`: Aggregated monthly crime counts for all crime types (used in visualizations)
 `crime_by_type_month_2024_wide.csv`: Monthly crime counts for the top 20 crime types in wide format (used for Flourish visualizations)
 `top10_LSOA_top6_crimes_wide.csv`: Aggregated crime counts for the top 6 crime types in the top 10 LSOAs (used for Flourish visualizations)
